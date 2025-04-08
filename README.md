@@ -34,7 +34,7 @@ Você pode clonar o repositório e abrir o arquivo `index.html` no navegador ou 
 
 ## 📷 Prévia
 
-Adicione aqui prints da interface (desktop e mobile) para mostrar o resultado final do projeto.
+<img src="https://github.com/Erisson10/playstation-store/blob/main/mocap%20playstation.png?raw=true">
 
 ---
 
