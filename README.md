@@ -38,5 +38,5 @@ Adicione aqui prints da interface (desktop e mobile) para mostrar o resultado fi
 
 ---
 
-**Feito com 💙 por [Seu Nome](https://github.com/seu-usuario)**
+**Feito com 💙 por [Dev Erisson](https://github.com/Erisson10)**
  
