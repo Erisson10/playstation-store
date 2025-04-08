@@ -30,7 +30,7 @@ Aplicadas animações com **CSS puro**, utilizando `@keyframes` para suavizar tr
 
 Você pode clonar o repositório e abrir o arquivo `index.html` no navegador ou acessar a versão online:
 
-👉 [Clique aqui para acessar o projeto](https://seu-usuario.github.io/playstation-store)
+👉 [Clique aqui para acessar o projeto](https://erisson10.github.io/playstation-store/)
 
 ## 📷 Prévia
 
