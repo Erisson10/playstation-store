@@ -38,5 +38,5 @@ Você pode clonar o repositório e abrir o arquivo `index.html` no navegador ou 
 
 ---
 
-**Feito com 💙 por [Dev Erisson](https://github.com/Erisson10)**
+**Feito com 💙 por [ErissonDev](https://github.com/Erisson10)**
  
